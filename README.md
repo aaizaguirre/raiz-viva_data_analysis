@@ -15,23 +15,26 @@ Dataset propio, creado con ayuda de ChatGPT, ingresando datos como "nombre_produ
 │ ├── dataset_raiz-viva.csv 	    # Datos crudos
 │ └── ventas_limpias.xlsx 	    # Datos limpiados con Power Query
 ├── informes/ 			# Reportes exportados
-│ ├── reporte_excel.xlsx 	# Tablas dinámicas y Power Pivot en Excel
-│ └── reporte_powerbi.pbix 	# Informe interactivo en Power BI
+│ ├── reporte_excel.xlsx            # Tablas dinámicas y Power Pivot en Excel
+│ └── reporte_powerbi.pbix 	    # Informe interactivo en Power BI
 ├── documentación/ 		# Guías y manuales de uso
 │ └── manual_usuario.pdf
 └── README.md 			# Documentación de este proyecto
 ## 5. Instalación y configuración
 
-## 6. Metodología
+## 6. Objetivos
+- Ventas totales. Ingresos generados por todos los artículos vendidos.
+- Ventas promedio. Ingreso promedio por venta.
+- Número de items. Recuento total de diferentes artículos vendidos.
+- Calificación promedio. Calificación promedio de los usuarios por artículo vendido. 
+## 7. Resultados clave
 
-## 7. Resultados Clave
+## 8. Conclusiones y recomendaciones
 
-## 8. Conclusiones y Recomendaciones
-
-## 9. Futuras Mejoras
+## 9. Futuras mejoras
 
 
-10. Contacto
+## 10. Contacto
 Autor: Raúl Aarón Izaguirre Olortegui
 
 Email: aaizaguirreo@gmail.com
